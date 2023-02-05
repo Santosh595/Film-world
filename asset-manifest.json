@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Film-world/static/css/main.12c0682d.css",
+    "main.js": "/Film-world/static/js/main.cde61bdc.js",
+    "index.html": "/Film-world/index.html",
+    "static/media/search.svg": "/Film-world/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.12c0682d.css.map": "/Film-world/static/css/main.12c0682d.css.map",
+    "main.cde61bdc.js.map": "/Film-world/static/js/main.cde61bdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12c0682d.css",
+    "static/js/main.cde61bdc.js"
+  ]
+}
